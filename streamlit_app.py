@@ -1,5 +1,3 @@
-%%writefile chatbot.py
-
 import os
 import streamlit as st
 from langchain.text_splitter import RecursiveCharacterTextSplitter
