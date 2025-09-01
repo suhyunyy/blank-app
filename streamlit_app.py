@@ -72,7 +72,7 @@ def main():
     # 페이지 설정
     st.set_page_config(page_title="AI 비서", layout="wide", page_icon="🤖")
 
-    st.image('/content/KB_Sec.png', width=1200)
+    st.image('/KB_Sec.png', width=1200)
     st.markdown('---')
     st.title("안녕하세요! RAG를 활용한 'KB증권 AI 비서' 입니다")  # 시작 타이틀
 
